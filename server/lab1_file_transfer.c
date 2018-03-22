@@ -168,7 +168,6 @@ int main(int argc, char **argv)
         }
     printf("end\n");
     }
-
     close(sockfd);
 	return 0;
 }
